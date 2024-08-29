@@ -28,7 +28,7 @@ Python or Python3.x installed on your machine.
 
 ### Clone the repository:
 
-git clone [website]
+git clone https://github.com/reyadesai/hangmangame.git
 
 ### Navigate to the project directory:
 
